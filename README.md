@@ -11,7 +11,7 @@ Data science portfolio of Adekalu Adedayo
 ![scatter plot](/images/police%20image.png)
 
 
-# [**Project 2: Crime in Nigeria**](https://github.com/vervainalthor/Exploring-Nigeria-through-data):
+# [**Project 2: Crime in Nigeria**](https://github.com/vervainalthor/Exploring-Nigeria-through-data)
 
 ## **Project Overview:**
 * This aims to explore crime activity in nigeria by state based on frequency tables from the Nigerian burea of statistics. I gathered data from the Nigerian bureau of statistics on the crime statistics of each state inthe year 2017, the crime were predivided into several worksheets by a categorical groupin determined by the nigerian police force.i combined these three worksheets into a single csv file while creating another csv file for the totals of the categories
