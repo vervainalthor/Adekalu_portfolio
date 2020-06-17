@@ -16,11 +16,11 @@ Data science portfolio of Adekalu Adedayo
 ## **Project Overview:**
 * This aims to explore crime activity in nigeria by state based on frequency tables from the Nigerian burea of statistics. I gathered data from the Nigerian bureau of statistics on the crime statistics of each state inthe year 2017, the crime were predivided into several worksheets by a categorical groupin determined by the nigerian police force.i combined these three worksheets into a single csv file while creating another csv file for the totals of the categories
 
-![lineplot](/images/crime%20image.png)
+<img src ="images/crime%20image.png"/>
 
 
 # [**Project 3: House prices Prediction**](https://github.com/vervainalthor/Learning-data-science/blob/master/My%20take%20on%20housing%20price%20regression.ipynb)
 ## **Project Overview:**
 This aims to determine housing prices from the boston housing data set.
 
-![heat map](/images/heat%20map%20regression.png)
+<img src ="images/heat%20map%20regression.png"/>
