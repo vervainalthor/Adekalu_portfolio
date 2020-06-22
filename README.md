@@ -24,3 +24,11 @@ Data science portfolio of Adekalu Adedayo
 This aims to determine housing prices from the boston housing data set.
 
 <img src ="images/heat%20map%20regression.png"/>
+
+
+# [**Project 4:Time series analysis and Forcasting of Nigerian Food prices**](https://github.com/vervainalthor/Exploring-Nigeria-through-data/tree/master/Timeseries%20Aanalysis%20of%20Food%20prices)
+##  **Project Overview:**
+This project aims to study the price change patterns of different foods, the difference in patterns in differeent geopolitical regions of the country, the project consists of two different notebooks, one centering around the National average values of different foodand devoloping Price forecasting methods of an assumed food expenditure per month while the other notebook is focused on comparing different regional prices and Presenting a theory to explain the data.
+
+<img src ="images/time%20series.png/>
+
