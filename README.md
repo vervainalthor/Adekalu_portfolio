@@ -3,7 +3,7 @@ Data science portfolio of Adekalu Adedayo
 
 **Contents**
 
-# [**project 1: Police presence in Nigeria**](https://github.com/vervainalthor/Exploring-Nigeria-through-data)
+# [**Project 1: Police presence in Nigeria**](https://github.com/vervainalthor/Exploring-Nigeria-through-data)
 
 ## **Project Overview** 
 * This aims to study the presence of police in various zones and states in nigeria, and their adequacy for the population, the data was gathered from the crime statistics report of the Nigerian Bureau of Statistics, the data was seperated from the the general work sheet with minimal cleaning in excel to better perform as a csv file in the python environment, The officer per zone population data was gathered from the the website of the Nigerian police force and compiled into csv format with the addition of columns that were suited to the data.
@@ -32,7 +32,7 @@ This project aims to study the price change patterns of different foods, the dif
 
 <img src ="images/time%20series.png"/>
 
-# [**Project 5:opening A Salad bar in toronto **](https://github.com/vervainalthor/Coursera_capstone/blob/master/Battle_of_the_neighbourhood_opening_a_salad_bar_in_Toronto_FINAL.ipynb)
+# [**Project 5:opening A Salad bar in toronto**](https://github.com/vervainalthor/Coursera_capstone/blob/master/Battle_of_the_neighbourhood_opening_a_salad_bar_in_Toronto_FINAL.ipynb)
 ##  **Project Overview:**
 This project was a the final project for the IBM coursera capstone specialisation.Its purpose was to determine the best neighbourhood to open a low calorie salad bar with gym density as our major criteria for selection, using the foursquare API i was able gather data on venue density and venue cordinates, and eventually mapping out the data with use of Folium. 
 # [The best neighbouhood to open a gym is **Willowdale Newtonbrook**](https://github.com/vervainalthor/Coursera_capstone/blob/master/OPENING%20A%20LOW%20SALAD%20BAR%20IN%20TORONTO.pdf)
