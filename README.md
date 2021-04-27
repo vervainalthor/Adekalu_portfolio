@@ -37,4 +37,4 @@ This project aims to study the price change patterns of different foods, the dif
 This project was a the final project for the IBM coursera capstone specialisation.Its purpose was to determine the best neighbourhood to open a low calorie salad bar with gym density as our major criteria for selection, using the foursquare API i was able gather data on venue density and venue cordinates, and eventually mapping out the data with use of Folium. 
 # [The best neighbouhood to open a gym is **Willowdale Newtonbrook**](https://github.com/vervainalthor/Coursera_capstone/blob/master/OPENING%20A%20LOW%20SALAD%20BAR%20IN%20TORONTO.pdf)
 
-
+<img src ="images/toronto%20 map.png"/>
